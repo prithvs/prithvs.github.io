@@ -1,5 +1,7 @@
 # Hello there!
 Check out my project named [**Swivel**](https://prithvs.github.io/swivel/)   
+Check out my project named [**Cicada**](https://prithvs.github.io/cicada/)   
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nisl justo, efficitur vitae urna quis, blandit finibus augue. Curabitur nec ante accumsan, congue urna vel, tincidunt turpis. Nullam elementum ipsum sed nunc molestie blandit. In aliquam sapien a vestibulum tempus. Nulla lobortis, metus pretium euismod venenatis, sem mi convallis eros, ac facilisis orci felis a libero. Pellentesque viverra feugiat massa, et vestibulum tellus pretium ut. Aliquam finibus orci nibh, at convallis leo hendrerit accumsan. Sed nec interdum erat, et tristique augue. Etiam ac dui et justo feugiat ullamcorper quis eu lorem. Proin nibh neque, luctus eget rhoncus sed, semper in ante. Donec ac ornare ipsum, dictum feugiat nunc. Maecenas accumsan efficitur tortor, id finibus erat accumsan at. In quis justo sed urna varius tincidunt. Donec egestas sit amet purus ut vulputate. In non congue lacus.
 
