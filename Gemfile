@@ -1,5 +1,5 @@
 # Gemfile
-
+gem 'jekyll-titles-from-headings'
 source 'https://rubygems.org'
 
 gem "jekyll", "~> 4.2"
