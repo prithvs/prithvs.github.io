@@ -2,6 +2,11 @@ title: prithvs
 remote_theme: jekyll/minima
 minima:
   skin: dark
+header_pages:
+  - works.md
+  - about.md
+  - articles.md
+  - notes.md
 plugins:
   - jekyll-titles-from-headings
 titles_from_headings:
